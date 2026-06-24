@@ -1,32 +1,32 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
+    int low = 0 ;
+    int high =0;
+int sum = 0;
+int n = nums.size();
+int len;
+int minlen = INT_MAX;
+    for(int i = low ; i<= high ; i++){
+        sum += nums[i];
+    }
 
-        int low = 0;
-        int high = 0;
-        int sum = nums[0];
+while(high<n){
+if(sum>=target){
 
-        int n = nums.size();
-        int minlen = INT_MAX;
+   minlen = min (minlen ,  high - low + 1);
+    low++;
+sum = sum - nums[low-1];
+}
 
-        while(high < n) {
+else{
+    high++;
+  if(high<n){
+    sum = sum + nums[high];
+  }
+}
 
-            if(sum >= target) {
-
-                minlen = min(minlen, high - low + 1);
-
-                sum -= nums[low];
-                low++;
-            }
-            else {
-
-                high++;
-
-                if(high < n)
-                    sum += nums[high];
-            }
-        }
-
-        return minlen == INT_MAX ? 0 : minlen;
+}
+return minlen == INT_MAX ? 0 : minlen;
     }
 };
