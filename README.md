@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ayusharyan4269-bit/LC/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/ayusharyan4269-bit/LC/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ayusharyan4269-bit/LC/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/ayusharyan4269-bit/LC/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayusharyan4269-bit/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/ayusharyan4269-bit/LC/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayusharyan4269-bit/LC/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ayusharyan4269-bit/LC/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
