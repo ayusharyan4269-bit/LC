@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayusharyan4269-bit/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayusharyan4269-bit/LC/tree/master/0076-minimum-window-substring) |
+| [0409-longest-palindrome](https://github.com/ayusharyan4269-bit/LC/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/ayusharyan4269-bit/LC/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayusharyan4269-bit/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayusharyan4269-bit/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayusharyan4269-bit/LC/tree/master/0076-minimum-window-substring) |
+| [0409-longest-palindrome](https://github.com/ayusharyan4269-bit/LC/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayusharyan4269-bit/LC/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayusharyan4269-bit/LC/tree/master/0007-reverse-integer) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ayusharyan4269-bit/LC/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
